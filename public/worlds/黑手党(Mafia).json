@@ -1,0 +1,353 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "黑手党"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "黑手党(Mafia)是一个历史悠久的犯罪集团，起源于意大利的西西里岛，经历上百年的演变，如今已经发展为集走私、卖淫、贩毒及各种灰色产业于一身的国际化犯罪组织。\n黑手党的组织特点之一，是骨干成员必须是意大利的西西里人。黑手党中因为区域及利益因素分为不同的帮派，由各自的家族所掌控，这种家族式的组织文化往往带有浓厚的意大利特色。\n值得一提的是，黑手党人通常不会自称“黑手党”，而是用“家族”，“事业”等词称呼自己的组织。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "组织结构"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "黑手党的组织结构明确，等级分明，主要分为四个等级。\n第一等级为教父（Boss），是整个黑手党组织的党魁，多数情况下只有一位。\n第二等级为副手（Underboss）和军师（Consigliere），他们是教父身边最亲密的亲信，与教父一起构成黑手党的核心领导圈。\n副手通常是教父的家庭成员，例如儿子和兄弟。他们直接听从教父的命令，负责管理手下的头目们，如果教父生病、被杀或被监禁，他将接替教父的职务。\n军师是教父身边的高级顾问，负责为教父和副手出谋划策。军师是家族中为数不多的可以与教父争论的角色，并且会在必要时反对教父，以确保计划的万无一失。\n第三等级为头目（Caporegime），简称“Capo”，由黑手党家族所控制的地盘中各个区域的负责人所担任，他们主要听命于副手的安排，没太多机会与教父本人联络。\n第四等级为士兵（Soldato），也被称为“纽扣人”（buttons）、他们是组织中最基础的成员，听从各地区头目的命令，除了各别能力出众者，大部分人没什么机会直接与教父本人接触。\n在纽扣人之下，还有一群被称为“合伙人”（associates）的角色，他们通常不具备正式黑手党成员的资格，只是一些为纽扣人们跑腿的街头小混混，只有获得纽扣人的引荐后才有机会加入黑手党。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "教父"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "黑手党中的“教父”不同于宗教中的教父，是黑手党最高领导者的代称。教父地位崇高，是所在帮派的精神领袖，他们除了组织和监管帮派中的活动与交易之外，还经常对犯罪分子之间的争执进行仲裁。一些德高望重的教父，甚至会以地区守护者的身份存在，所在地的居民们在遇到法律无法解决的问题时，往往会求助于教父的帮助。\n通常来说，教父在帮助平民百姓时，不会选择收取费用，而是要对方付出“友谊”，保证从今以后在教父有需要的时候，要在力所能及的范围内为教父服务。通过这种极具西西里特色的人情往来，教父在各行各业都掌握了丰富的人脉，为组织未来的发展打下良好的基础。\n通常来说，人们会按照意大利语的习惯，用“Don（阁下）”的尊称来称呼教父，比如“柯里昂阁下（Don Corleone）”",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 2,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "缄默原则"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "缄默原则（Omertà）是黑手党的组织文化中最重要的原则之一，核心思想是:组织中的任何人，无论遇到什么情况，都不能与警察合作，不能出卖其他组织成员，不能向警方提供任何线索。\n只有发誓永远遵守缄默原则的人，才有资格加入黑手党或者与黑手党合作，任何违反缄默原则的人，都会受到黑手党成员的残忍报复。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 3,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "西西里人"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "西西里人注重家庭，十分重视亲情，儿女需要无条件地服从父母，家庭成员之间也要互相照顾和帮扶，严禁出现族亲之间互害的行为。\n西西里人的婚姻观念传统，通常男主外女主内，女性主要负责照顾家中的事务，对男人们在外的工作不能做太多过问，男人也要保证对家庭忠实，不能随便外遇或者离婚。\n如果一名高级别的黑手党成员的婚姻出现裂痕，他的上级甚至是教父本人可能会出面劝解，传统的黑手党文化中认为，一个男人如果连家庭和婚姻都照顾不好，也没有能力照顾好事业。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 4,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "入会仪式"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "黑手党新人入会之前，首先要跪在首领之前，首领会取一张圣人的圣像置于新人一只手的手心，随后，首领会用一把匕首划开新人另一只手的手指，让血滴在圣像之上。随后新人要双手并拢，以掌心捧著圣像。\n首领问：“你愿意在圣人面前以血发誓，永远遵守帮规，不出卖家族么？”\n新人答：“我发誓。”\n然后首领即点火燃烧那张掌心捧著的染血圣像，说；“圣人见证，你若背叛，就如同这张圣像，在阳世间被炮烙，或者在地狱里受火刑”。当画像快要烧至手时，新人将圣像放在地板上，低头合掌向圣像礼拜。之后，首领会走过来拥抱新人，说：“圣人赐福予你，我的兄弟（我的孩子）”\n参加过入会仪式的人，会被称为“made man”，从此成为被黑手党组织认可的正式成员，获得许多只有正式成员才能拥有的好处与权力。",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 5,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "6": {
+            "uid": 6,
+            "key": [
+                "吻手礼"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "吻手礼是面见黑手党教父的常用礼仪，黑手党中的成员面见教父时，会以亲吻教父手背的方式表达自己的敬意和忠心。普通人亲吻教父手背，则意味着承认自己是由教父庇护的子民，从此愿意以“朋友”的身份为教父效忠。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 6,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "死亡之吻"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "“死亡之吻”（bacio della morte）是黑手党文化中一个神秘的礼仪，据传起源于《圣经》中“犹大之吻”的传说。如果一名黑手党成员突然亲吻你的嘴唇，意味着他对你下达了死亡通知，会在不久后将你处决。\n另一种“死亡之吻”发生在亲密的黑手党成员之间，当一名黑手党成员面临被捕的情况时，他身边亲密的同党会找机会与他拥吻，暗示被吻者要在监狱中严守缄默原则，自己会帮忙照顾他的家人。\n据传在黑手党的文化中，不同部位的吻有不同寓意：落在脸颊上的吻意味着“平等”，落在手上的吻意味着忠诚，而落在嘴唇上的吻则意味着谴责和死亡。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 7,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "selectiveLogic": 0,
+            "group": ""
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "黑手党"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "黑手党(Mafia)是一个历史悠久的犯罪集团，起源于意大利的西西里岛，经历上百年的演变，如今已经发展为集走私、卖淫、贩毒及各种灰色产业于一身的国际化犯罪组织。\n黑手党的组织特点之一，是骨干成员必须是意大利的西西里人。黑手党中因为区域及利益因素分为不同的帮派，由各自的家族所掌控，这种家族式的组织文化往往带有浓厚的意大利特色。\n值得一提的是，黑手党人通常不会自称“黑手党”，而是用“家族”，“事业”等词称呼自己的组织。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 0,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 1,
+                "keys": [
+                    "组织结构"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "黑手党的组织结构明确，等级分明，主要分为四个等级。\n第一等级为教父（Boss），是整个黑手党组织的党魁，多数情况下只有一位。\n第二等级为副手（Underboss）和军师（Consigliere），他们是教父身边最亲密的亲信，与教父一起构成黑手党的核心领导圈。\n副手通常是教父的家庭成员，例如儿子和兄弟。他们直接听从教父的命令，负责管理手下的头目们，如果教父生病、被杀或被监禁，他将接替教父的职务。\n军师是教父身边的高级顾问，负责为教父和副手出谋划策。军师是家族中为数不多的可以与教父争论的角色，并且会在必要时反对教父，以确保计划的万无一失。\n第三等级为头目（Caporegime），简称“Capo”，由黑手党家族所控制的地盘中各个区域的负责人所担任，他们主要听命于副手的安排，没太多机会与教父本人联络。\n第四等级为士兵（Soldato），也被称为“纽扣人”（buttons）、他们是组织中最基础的成员，听从各地区头目的命令，除了各别能力出众者，大部分人没什么机会直接与教父本人接触。\n在纽扣人之下，还有一群被称为“合伙人”（associates）的角色，他们通常不具备正式黑手党成员的资格，只是一些为纽扣人们跑腿的街头小混混，只有获得纽扣人的引荐后才有机会加入黑手党。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 2,
+                "keys": [
+                    "教父"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "黑手党中的“教父”不同于宗教中的教父，是黑手党最高领导者的代称。教父地位崇高，是所在帮派的精神领袖，他们除了组织和监管帮派中的活动与交易之外，还经常对犯罪分子之间的争执进行仲裁。一些德高望重的教父，甚至会以地区守护者的身份存在，所在地的居民们在遇到法律无法解决的问题时，往往会求助于教父的帮助。\n通常来说，教父在帮助平民百姓时，不会选择收取费用，而是要对方付出“友谊”，保证从今以后在教父有需要的时候，要在力所能及的范围内为教父服务。通过这种极具西西里特色的人情往来，教父在各行各业都掌握了丰富的人脉，为组织未来的发展打下良好的基础。\n通常来说，人们会按照意大利语的习惯，用“Don（阁下）”的尊称来称呼教父，比如“柯里昂阁下（Don Corleone）”",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 2,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 3,
+                "keys": [
+                    "缄默原则"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "缄默原则（Omertà）是黑手党的组织文化中最重要的原则之一，核心思想是:组织中的任何人，无论遇到什么情况，都不能与警察合作，不能出卖其他组织成员，不能向警方提供任何线索。\n只有发誓永远遵守缄默原则的人，才有资格加入黑手党或者与黑手党合作，任何违反缄默原则的人，都会受到黑手党成员的残忍报复。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 3,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 4,
+                "keys": [
+                    "西西里人"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "西西里人注重家庭，十分重视亲情，儿女需要无条件地服从父母，家庭成员之间也要互相照顾和帮扶，严禁出现族亲之间互害的行为。\n西西里人的婚姻观念传统，通常男主外女主内，女性主要负责照顾家中的事务，对男人们在外的工作不能做太多过问，男人也要保证对家庭忠实，不能随便外遇或者离婚。\n如果一名高级别的黑手党成员的婚姻出现裂痕，他的上级甚至是教父本人可能会出面劝解，传统的黑手党文化中认为，一个男人如果连家庭和婚姻都照顾不好，也没有能力照顾好事业。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 4,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 5,
+                "keys": [
+                    "入会仪式"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "黑手党新人入会之前，首先要跪在首领之前，首领会取一张圣人的圣像置于新人一只手的手心，随后，首领会用一把匕首划开新人另一只手的手指，让血滴在圣像之上。随后新人要双手并拢，以掌心捧著圣像。\n首领问：“你愿意在圣人面前以血发誓，永远遵守帮规，不出卖家族么？”\n新人答：“我发誓。”\n然后首领即点火燃烧那张掌心捧著的染血圣像，说；“圣人见证，你若背叛，就如同这张圣像，在阳世间被炮烙，或者在地狱里受火刑”。当画像快要烧至手时，新人将圣像放在地板上，低头合掌向圣像礼拜。之后，首领会走过来拥抱新人，说：“圣人赐福予你，我的兄弟（我的孩子）”\n参加过入会仪式的人，会被称为“made man”，从此成为被黑手党组织认可的正式成员，获得许多只有正式成员才能拥有的好处与权力。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 5,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 6,
+                "keys": [
+                    "吻手礼"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "吻手礼是面见黑手党教父的常用礼仪，黑手党中的成员面见教父时，会以亲吻教父手背的方式表达自己的敬意和忠心。普通人亲吻教父手背，则意味着承认自己是由教父庇护的子民，从此愿意以“朋友”的身份为教父效忠。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 6,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 7,
+                "keys": [
+                    "死亡之吻"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "“死亡之吻”（bacio della morte）是黑手党文化中一个神秘的礼仪，据传起源于《圣经》中“犹大之吻”的传说。如果一名黑手党成员突然亲吻你的嘴唇，意味着他对你下达了死亡通知，会在不久后将你处决。\n另一种“死亡之吻”发生在亲密的黑手党成员之间，当一名黑手党成员面临被捕的情况时，他身边亲密的同党会找机会与他拥吻，暗示被吻者要在监狱中严守缄默原则，自己会帮忙照顾他的家人。\n据传在黑手党的文化中，不同部位的吻有不同寓意：落在脸颊上的吻意味着“平等”，落在手上的吻意味着忠诚，而落在嘴唇上的吻则意味着谴责和死亡。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 7,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            }
+        ],
+        "name": "黑手党(Mafia)"
+    }
+}

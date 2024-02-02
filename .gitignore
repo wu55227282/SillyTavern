@@ -1,4 +1,5 @@
 node_modules/
+!public/chats/*
 public#/characters/
 public#/User Avatars/
 public/backgrounds/
@@ -42,4 +43,3 @@ access.log
 /cache/
 #public/css/user.css
 /plugins/
-

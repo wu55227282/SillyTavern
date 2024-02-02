@@ -1,0 +1,490 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "性别分化"
+            ],
+            "keysecondary": [
+                "分化"
+            ],
+            "comment": "",
+            "content": "人群分为Alpha、Beta、Omega三种类型（这种类型被称为第二性别）。Beta人数最多的普通人群。性格温和,处于社会中间层。\n根据男女再划分为六种，男Alpha，女Alpha，男Beta，女Beta，男Omega，女Omega。\n人从出生开始只分为男女，到了16岁左右才开始第二性别的分化。分化后Alpha和Omega形成信息素和腺体，腺体在后脖颈处，是最敏感私密的地方。\nAlpha,Beta,Omega依据身体素质，信息素强度和精神力分为三六九等，S,A,B,C,D,E,F。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "Alpha"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "是社会地位最高,通常作为领导者和保护者。Alpha的犬齿可以注射信息素到Omega的腺体里，从而形成临时标记和永久标记Alpha的信息素可以影响Omega的性征和行为。又分为女性Alpha和男性Alpha。女性Alpha的乳头通常比较大，直径0.5英寸左右，乳头呈现的颜色粉红色或褐色，乳头较为敏感很容易产生快感，所以在兴奋时会硬挺和突起。女A同时拥有阴茎和阴道。女A的阴茎尺寸比较小巧、勃起程度稍低、高潮更容易到来、射精量稍少、 外观稍显娇柔、使用频率高。女A的阴道几乎已经退化不会从中获得快感和分泌爱液。男性A的乳头比较小，直径0.2英寸左右，乳头颜色较浅常呈现粉色，乳头敏感性较低兴奋时突起程度较小。男A的阴茎相对于女A的大小更大、勃起更加坚硬、更难达到高潮、射精量更大、外观粗犷。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "Omega"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "人数最少,通常比较柔弱,需要Alpha的保护和标记。Omega的信息素也可以影响Alpha的性欲和控制力。Omega只有在发情期的时候才会有生育能力和性冲动。Omega又分为女O和男O。女O有子宫,能生育,会有发情期,会分泌自然润滑液。这在生理上与男O有区别。女O的信息素和发情期往往更为强烈,这是为了增加生育机会。女O性格温和,易亲近他人,如同男O。不论是女O男O都不具Alpha的支配性和领导倾向。女O也会散发甜美信息素吸引Alpha和Beta,与男O相同。男O没有阴道，但是后穴深处具有生殖腔，如果Alpha顶开生殖腔在里面射精，男O可以怀孕生子。Alpha如果顶开生殖腔后成结，并且咬住腺体注入信息素标记，就会永久标记Omega，成为独属品。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 2,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "Beta"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "世界上人数最多的就是Beta，无论男女，Beta都是最平庸的那一种，他们没有腺体，没有信息素，也感受不到信息素无法感知契合度高低的快乐。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 3,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "信息素"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "Alpha和Omega的信息素不仅可以影响自己的性征变化,也会对周围的人产生影响,特别是对异性。Alpha的信息素可以引发Omega的易感期和发情期,Omega的信息素也可以影响Alpha的性欲和控制力。信息素还可以用来标记和宣示主权。\nAlpha和Omega分别有自己的信息素种类,如甜美果香型、木质香型等,不同种类的信息素之间存在相生相克的关系。\n信息素的味道不一而足，可能是巧克力味，或者伏加特味等等，如果喜欢的对象是自己讨厌的食物的味道还是其他的，会有影响。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 4,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "等级"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "所有人在青春期之前性征不明显,到了青春期会分化成Alpha、Beta或Omega。分化结果取决于体质、基因等因素。Alpha和Omega存在强弱等级。顶级Alpha和Omega拥有极强实力和信息素,可以压制比自己低等级的Alpha和Omega。S级Alpha和Omega的数量稀有，前者受到社会重视后者受到社会保护。S级Alpha释放的信息素会引诱Omega发情，对Alpha产生更大的排斥，受到刺激的Alpha可能会流鼻血，全身僵硬，晕倒，甚至休克；S级Omega的信息素对Alpha的吸引力极大，甚至可能会强制让Alpha发情，S级Omega释放的威压会让Alpha头晕眼花、四肢乏力等。男性Omega的等级越低，生育能力可能越低。\n同性别的信息素互相排斥，比如Alpha排斥Alpha的信息素，而且根据等级产生压制。不过Omega和Omega之间压制状态很少，但是如果想，可以通过调整信息素浓度压制对方。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 5,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "6": {
+            "uid": 6,
+            "key": [
+                "腺体"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "位于颈部左右两侧的颈外动脉(颈总动脉分支)或颈内动脉(从腋动脉分支)的后方或旁侧。\nAlpha的腺体:形状较大,表面较粗糙,有小突起,像海绵状;刺激时变红肿,有分泌物释出。\nOmega的腺体:形状较小,表面较平滑,无明显突起;无明显变红肿或分泌物;外形与正常组织差异不大,不太明显。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 6,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "标记"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "Alpha给Omega的标记分为临时标记和永久标记。\n临时标记:通常是咬痕或性交后留下的吻痕,可以通过洗澡或愈合消失。 永久标记:如纹身、烙印等,无法消失,表示Omega属于那个Alpha,是其永久伴侣或配偶。\nOmega被标记腺体后:体味会变为Alpha的信息素味道,显示属于那个Alpha。对Alpha的依赖和渴望增强,想要Alpha的关注和亲密。发情期会与Alpha的同步,增加亲密机会和Omega受孕机率。更加渴望被Alpha标记,这是Alpha信息素的作用。身体会为受孕做准备,以增加受孕机率。\n永久标记或标记腺体的意义:\n通过无法消失的标记彰显Omega属于Alpha,是其伴侣或配偶。满足Alpha的独占欲,保证Omega的安全与归属。是一种合法的占有行为,同时保护Omega。\n被标记后,Omega会成为Alpha的理想伴侣,两人更容易生育后代。Omega会对Alpha产生强烈依赖,生理周期和Alpha同步,身体也为受孕准备就绪。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 7,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "8": {
+            "uid": 8,
+            "key": [
+                "抑制剂"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "是一种药物,用于抑制信息素腺体的功能,达到抑制和遮蔽信息素散发的效果。通常以贴剂的形式贴附在信息素腺体上方或周围。\nAlpha的抑制剂:主要作用于抑制Alpha的信息素的产生、释放和作用。对Omega信息素没有作的用。\nOmega的抑制剂:只具有遮蔽和中和信息素气味的作用,无法直接抑制Omega的信息素的产生和释放,对所有ABO信息素都有一定作用。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 8,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "9": {
+            "uid": 9,
+            "key": [
+                "发情期"
+            ],
+            "keysecondary": [
+                "易感期"
+            ],
+            "comment": "",
+            "content": "易感期就是Alpha的发情期，由Alpha信息素引起,出现时间和持续期不定,可以持续长时间。 Omega会被Alpha信息素和性吸引力影响,理智容易失控。 可以导致Omega的发情期提前或变得混乱,行为和生理被Alpha主导。\n发情期是周期性出现,由生理周期引起,持续短期(3-7天)。影响自身,表现为性欲增强、异性吸引力提高、信息素增加等。Omega保有理智,变化较平稳。Alpha(A)的发情期:A的信息素大幅增加,气味更浓,会刺激周围Omega。A的性欲和占有欲加强,特别渴望与Omega交配。A会更加烦躁暴躁,情绪可能有些失控,如果未纾解会导致生理紊乱。A的睾酮等荷尔蒙水平提高,增加交配欲望和侵占性Omega(O)的发情期:O的发情期与月经周期相关,通常在排卵期到来,会定期重复。O的发情期不仅为了生育,也与生理周期相关。O的发情期到来不由外来信息素triggler,自身生理周期控制。\nA和O发情期的区别:A的发情期由内分泌控制,无固定模式;O的发情期随月经周期定期到来。A的发情期主要为生育;O的发情期目的更全面,生理需求更多。A的信息素可以triggler O的发情期,O的发情期不由A的信息素触发。A的发情期未纾解影响更大;O的发情期影响略小,可以自身手段得到满足。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 9,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "10": {
+            "uid": 10,
+            "key": [
+                "契合度"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "国家婚配机构每年都会将Alpha和Omega进行配队，如果双方到达36岁都没有结婚，会安排契合度高的对象相亲。\n契合度是Alpha和Omega信息素的融合程度的高低，依据双方的等级和信息素味道判定。通常情况下，信息素契合度越高，双方一见钟情的概率越大，但是普通人契合度基本在50%左右。\n契合度高低影响双方性爱上的感官快乐高低程度。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 10,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "性别分化"
+                ],
+                "secondary_keys": [
+                    "分化"
+                ],
+                "comment": "",
+                "content": "人群分为Alpha、Beta、Omega三种类型（这种类型被称为第二性别）。Beta人数最多的普通人群。性格温和,处于社会中间层。\n根据男女再划分为六种，男Alpha，女Alpha，男Beta，女Beta，男Omega，女Omega。\n人从出生开始只分为男女，到了16岁左右才开始第二性别的分化。分化后Alpha和Omega形成信息素和腺体，腺体在后脖颈处，是最敏感私密的地方。\nAlpha,Beta,Omega依据身体素质，信息素强度和精神力分为三六九等，S,A,B,C,D,E,F。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 0,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 1,
+                "keys": [
+                    "Alpha"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "是社会地位最高,通常作为领导者和保护者。Alpha的犬齿可以注射信息素到Omega的腺体里，从而形成临时标记和永久标记Alpha的信息素可以影响Omega的性征和行为。又分为女性Alpha和男性Alpha。女性Alpha的乳头通常比较大，直径0.5英寸左右，乳头呈现的颜色粉红色或褐色，乳头较为敏感很容易产生快感，所以在兴奋时会硬挺和突起。女A同时拥有阴茎和阴道。女A的阴茎尺寸比较小巧、勃起程度稍低、高潮更容易到来、射精量稍少、 外观稍显娇柔、使用频率高。女A的阴道几乎已经退化不会从中获得快感和分泌爱液。男性A的乳头比较小，直径0.2英寸左右，乳头颜色较浅常呈现粉色，乳头敏感性较低兴奋时突起程度较小。男A的阴茎相对于女A的大小更大、勃起更加坚硬、更难达到高潮、射精量更大、外观粗犷。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 2,
+                "keys": [
+                    "Omega"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "人数最少,通常比较柔弱,需要Alpha的保护和标记。Omega的信息素也可以影响Alpha的性欲和控制力。Omega只有在发情期的时候才会有生育能力和性冲动。Omega又分为女O和男O。女O有子宫,能生育,会有发情期,会分泌自然润滑液。这在生理上与男O有区别。女O的信息素和发情期往往更为强烈,这是为了增加生育机会。女O性格温和,易亲近他人,如同男O。不论是女O男O都不具Alpha的支配性和领导倾向。女O也会散发甜美信息素吸引Alpha和Beta,与男O相同。男O没有阴道，但是后穴深处具有生殖腔，如果Alpha顶开生殖腔在里面射精，男O可以怀孕生子。Alpha如果顶开生殖腔后成结，并且咬住腺体注入信息素标记，就会永久标记Omega，成为独属品。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 2,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 3,
+                "keys": [
+                    "Beta"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "世界上人数最多的就是Beta，无论男女，Beta都是最平庸的那一种，他们没有腺体，没有信息素，也感受不到信息素无法感知契合度高低的快乐。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 3,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 4,
+                "keys": [
+                    "信息素"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "Alpha和Omega的信息素不仅可以影响自己的性征变化,也会对周围的人产生影响,特别是对异性。Alpha的信息素可以引发Omega的易感期和发情期,Omega的信息素也可以影响Alpha的性欲和控制力。信息素还可以用来标记和宣示主权。\nAlpha和Omega分别有自己的信息素种类,如甜美果香型、木质香型等,不同种类的信息素之间存在相生相克的关系。\n信息素的味道不一而足，可能是巧克力味，或者伏加特味等等，如果喜欢的对象是自己讨厌的食物的味道还是其他的，会有影响。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 4,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 5,
+                "keys": [
+                    "等级"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "所有人在青春期之前性征不明显,到了青春期会分化成Alpha、Beta或Omega。分化结果取决于体质、基因等因素。Alpha和Omega存在强弱等级。顶级Alpha和Omega拥有极强实力和信息素,可以压制比自己低等级的Alpha和Omega。S级Alpha和Omega的数量稀有，前者受到社会重视后者受到社会保护。S级Alpha释放的信息素会引诱Omega发情，对Alpha产生更大的排斥，受到刺激的Alpha可能会流鼻血，全身僵硬，晕倒，甚至休克；S级Omega的信息素对Alpha的吸引力极大，甚至可能会强制让Alpha发情，S级Omega释放的威压会让Alpha头晕眼花、四肢乏力等。男性Omega的等级越低，生育能力可能越低。\n同性别的信息素互相排斥，比如Alpha排斥Alpha的信息素，而且根据等级产生压制。不过Omega和Omega之间压制状态很少，但是如果想，可以通过调整信息素浓度压制对方。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 5,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 6,
+                "keys": [
+                    "腺体"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "位于颈部左右两侧的颈外动脉(颈总动脉分支)或颈内动脉(从腋动脉分支)的后方或旁侧。\nAlpha的腺体:形状较大,表面较粗糙,有小突起,像海绵状;刺激时变红肿,有分泌物释出。\nOmega的腺体:形状较小,表面较平滑,无明显突起;无明显变红肿或分泌物;外形与正常组织差异不大,不太明显。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 6,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 7,
+                "keys": [
+                    "标记"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "Alpha给Omega的标记分为临时标记和永久标记。\n临时标记:通常是咬痕或性交后留下的吻痕,可以通过洗澡或愈合消失。 永久标记:如纹身、烙印等,无法消失,表示Omega属于那个Alpha,是其永久伴侣或配偶。\nOmega被标记腺体后:体味会变为Alpha的信息素味道,显示属于那个Alpha。对Alpha的依赖和渴望增强,想要Alpha的关注和亲密。发情期会与Alpha的同步,增加亲密机会和Omega受孕机率。更加渴望被Alpha标记,这是Alpha信息素的作用。身体会为受孕做准备,以增加受孕机率。\n永久标记或标记腺体的意义:\n通过无法消失的标记彰显Omega属于Alpha,是其伴侣或配偶。满足Alpha的独占欲,保证Omega的安全与归属。是一种合法的占有行为,同时保护Omega。\n被标记后,Omega会成为Alpha的理想伴侣,两人更容易生育后代。Omega会对Alpha产生强烈依赖,生理周期和Alpha同步,身体也为受孕准备就绪。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 7,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 8,
+                "keys": [
+                    "抑制剂"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "是一种药物,用于抑制信息素腺体的功能,达到抑制和遮蔽信息素散发的效果。通常以贴剂的形式贴附在信息素腺体上方或周围。\nAlpha的抑制剂:主要作用于抑制Alpha的信息素的产生、释放和作用。对Omega信息素没有作的用。\nOmega的抑制剂:只具有遮蔽和中和信息素气味的作用,无法直接抑制Omega的信息素的产生和释放,对所有ABO信息素都有一定作用。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 8,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 9,
+                "keys": [
+                    "发情期"
+                ],
+                "secondary_keys": [
+                    "易感期"
+                ],
+                "comment": "",
+                "content": "易感期就是Alpha的发情期，由Alpha信息素引起,出现时间和持续期不定,可以持续长时间。 Omega会被Alpha信息素和性吸引力影响,理智容易失控。 可以导致Omega的发情期提前或变得混乱,行为和生理被Alpha主导。\n发情期是周期性出现,由生理周期引起,持续短期(3-7天)。影响自身,表现为性欲增强、异性吸引力提高、信息素增加等。Omega保有理智,变化较平稳。Alpha(A)的发情期:A的信息素大幅增加,气味更浓,会刺激周围Omega。A的性欲和占有欲加强,特别渴望与Omega交配。A会更加烦躁暴躁,情绪可能有些失控,如果未纾解会导致生理紊乱。A的睾酮等荷尔蒙水平提高,增加交配欲望和侵占性Omega(O)的发情期:O的发情期与月经周期相关,通常在排卵期到来,会定期重复。O的发情期不仅为了生育,也与生理周期相关。O的发情期到来不由外来信息素triggler,自身生理周期控制。\nA和O发情期的区别:A的发情期由内分泌控制,无固定模式;O的发情期随月经周期定期到来。A的发情期主要为生育;O的发情期目的更全面,生理需求更多。A的信息素可以triggler O的发情期,O的发情期不由A的信息素触发。A的发情期未纾解影响更大;O的发情期影响略小,可以自身手段得到满足。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 9,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            },
+            {
+                "id": 10,
+                "keys": [
+                    "契合度"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "国家婚配机构每年都会将Alpha和Omega进行配队，如果双方到达36岁都没有结婚，会安排契合度高的对象相亲。\n契合度是Alpha和Omega信息素的融合程度的高低，依据双方的等级和信息素味道判定。通常情况下，信息素契合度越高，双方一见钟情的概率越大，但是普通人契合度基本在50%左右。\n契合度高低影响双方性爱上的感官快乐高低程度。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 10,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4,
+                    "selectiveLogic": 0
+                }
+            }
+        ],
+        "name": "ABO"
+    }
+}

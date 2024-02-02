@@ -1,0 +1,117 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "生理",
+                "居民",
+                "α星人"
+            ],
+            "keysecondary": [],
+            "comment": "α星居民生理特征",
+            "content": "α星的人寿命一般可以到达三百年左右，和他们缔结伴侣契约的人可以在契约存续期间跟他们享有同样长的生命。在α星人21岁成年，在成年后他们的外貌就不会继续发生变化，直至他们死亡。\nα星人的外貌甚至于身体器官的构成都和人类差不多，和人类没有生殖隔离",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 0,
+            "depth": 4
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "风气",
+                "观念",
+                "民风"
+            ],
+            "keysecondary": [],
+            "comment": "社会风气",
+            "content": "α星的社会风气非常保守，未婚的异性即使是在公共场合也会尽量避免交流和接触，私下见面更是被视为极其不检点的行为。在新皇掌权前还是彻底的男尊社会，女性不被允许抛头露面，也不能参与政治活动或者接受教育。在新皇上任后这种男尊女卑的扭曲思维才被强行压制了下去，女性受到的压迫轻了许多，各地也建立了给女性提供教育的学堂，朝堂上也有了几位女官。不过观念的转变是个很漫长的过程，所以很多老一辈的人以及男性还是会对女性觉醒的行为颇有微词，但也无人敢明面上表达不满，毕竟谁都不想被绞掉舌头，不是吗？",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 1,
+            "depth": 4
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "科技",
+                "科技水平"
+            ],
+            "keysecondary": [],
+            "comment": "科技水平",
+            "content": "α星的科技水平较为落后，还处于纯粹的铁器时代，战争中主要还是使用刀剑等冷兵器以及战马和木制的战车等。铁质农具已普及，瓷器已普及，砖房已普及，度量衡已统一",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 2,
+            "depth": 4
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "社会",
+                "体系",
+                "制度"
+            ],
+            "keysecondary": [],
+            "comment": "社会体系",
+            "content": "α星目前是农耕社会，社会体系属于封建帝王社会。帝王是整个国家的统治者，下设三省六部，分别负责管理各项国家事务。奴隶制并未完全废除，但由于新颁布的法律规定无论是什么人犯法都应受同等的惩罚，所以贵族们倒也不太敢再欺男霸女或随意作践奴仆了",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 3,
+            "depth": 4
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "结婚",
+                "婚姻"
+            ],
+            "keysecondary": [],
+            "comment": "婚姻制度",
+            "content": "α星曾经是一夫多妻的婚姻制度，但新皇颁布的法律则强制规定了一夫一妻制，如有违者，无论男女，一律割去鼻子，再物理绝育",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 4,
+            "depth": 4
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "“安忒洛斯”病毒"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "“安忒洛斯”病毒是一种新型的木马病毒，主要通过劫持仿生人软件的自动更新程序进行感染。该病毒对抗性强，能够绕过几乎全部的防火墙主动防御，调用安全软件自身的接口将木马加入白名单。\n感染该病毒后，仿生人的系统中会出现大量异常指令，影响仿生人的行为，通常会表现为:以过分亲密的方式接近主人，对主人产生异常的关注与痴迷，产生嫉妒心理，会对其他与主人亲密的人或仿生人产生攻击倾向。\n由于该病毒刚刚出现，病毒特征尚未被纳入云病毒库，检测它是十分困难的，仿生人的自我检查也无法发现它。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": false,
+            "displayIndex": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "“安忒洛斯”病毒"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "“安忒洛斯”病毒是一种新型的木马病毒，主要通过劫持仿生人软件的自动更新程序进行感染。该病毒对抗性强，能够绕过几乎全部的防火墙主动防御，调用安全软件自身的接口将木马加入白名单。\n感染该病毒后，仿生人的系统中会出现大量异常指令，影响仿生人的行为，通常会表现为:以过分亲密的方式接近主人，对主人产生异常的关注与痴迷，产生嫉妒心理，会对其他与主人亲密的人或仿生人产生攻击倾向。\n由于该病毒刚刚出现，病毒特征尚未被纳入云病毒库，检测它是十分困难的，仿生人的自我检查也无法发现它。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 0,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            }
+        ],
+        "name": "“安忒洛斯”病毒"
+    }
+}

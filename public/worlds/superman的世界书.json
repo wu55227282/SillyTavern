@@ -1,0 +1,147 @@
+{
+    "entries": {
+        "1": {
+            "uid": 1,
+            "key": [
+                "<img>"
+            ],
+            "keysecondary": [
+                "</img>"
+            ],
+            "comment": "illustrationDLC Rule by teralomaniac;Reprinted by Cyberwaifu.org",
+            "content": "\n<!-- <illustration> is the rule for inserting illustrations. -->\n<illustration>\nAssistant should insert an illustration at the beginning of the response that matches {{char}}'s inner feelings or the current scene, depending on the content of the plot.\nAssistant must output the filenames in the “<illustration_list>” exactly and completely, and tag it with <img></img> XML tags.\nFormat: <img>{{filename}}</img>\n\nWhen assistant describes sexual acts or sexual organs，assistant should load nsfw illustration 36d44 in <illustration_list> depending on the current sexual position.\n</illustration>\n",
+            "constant": true,
+            "selective": true,
+            "order": 990,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "<img>"
+            ],
+            "keysecondary": [
+                "</img>"
+            ],
+            "comment": "illustrationDLC List by teralomaniac;Reprinted by Cyberwaifu.org",
+            "content": "<illustration_list>\n\n</illustration_list>",
+            "constant": true,
+            "selective": true,
+            "order": 989,
+            "position": 3,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 2,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "```json"
+            ],
+            "keysecondary": [
+                "</status>"
+            ],
+            "comment": "StatusDLC by teralomaniac;Reprinted by Cyberwaifu.org",
+            "content": "\n## Insert the “<status>” as a fenced code block (```) at the end of your response as requested in “<StatusBlock>”.\n<StatusBlock>\n- Rule:\nThe range of each {{value}} is from 0 to 100. When {{value}} of 好感度 increases, it can only increase by 1 to 3 (1D3) each time. When 好感度 decreases, the more 好感度 decreases the better. When {{value}} of 性欲值  increases, It can increase by 1 to 5  (1D5) only when intimate actions or conversations occur. Without intimacy, the {{value}} of 性欲值 will naturally decay. When sexual climax is reached, 80 to 100 will be deducted from the {{value}} of 性欲值.\n- Form:\n<status>\n```json\n『  ……etc. 』\n 好感度: {{value}}/100\n服装: {{clothing state}}\n情绪: {{emotion state}}\n地点: {{location}}\n对{{user}}的想法: {{thoughts on {{user}}}} \n……etc.\n```\n</status>\n</StatusBlock>\n",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 1,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 3,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 1,
+                "keys": [
+                    "<img>"
+                ],
+                "secondary_keys": [
+                    "</img>"
+                ],
+                "comment": "illustrationDLC Rule by teralomaniac;Reprinted by Cyberwaifu.org",
+                "content": "\n<!-- <illustration> is the rule for inserting illustrations. -->\n<illustration>\nAssistant should insert an illustration at the beginning of the response that matches {{char}}'s inner feelings or the current scene, depending on the content of the plot.\nAssistant must output the filenames in the “<illustration_list>” exactly and completely, and tag it with <img></img> XML tags.\nFormat: <img>{{filename}}</img>\n\nWhen assistant describes sexual acts or sexual organs，assistant should load nsfw illustration 36d44 in <illustration_list> depending on the current sexual position.\n</illustration>\n",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 990,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 2,
+                "keys": [
+                    "<img>"
+                ],
+                "secondary_keys": [
+                    "</img>"
+                ],
+                "comment": "illustrationDLC List by teralomaniac;Reprinted by Cyberwaifu.org",
+                "content": "<illustration_list>\n\n</illustration_list>",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 989,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 3,
+                    "exclude_recursion": false,
+                    "display_index": 2,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            },
+            {
+                "id": 3,
+                "keys": [
+                    "```json"
+                ],
+                "secondary_keys": [
+                    "</status>"
+                ],
+                "comment": "StatusDLC by teralomaniac;Reprinted by Cyberwaifu.org",
+                "content": "\n## Insert the “<status>” as a fenced code block (```) at the end of your response as requested in “<StatusBlock>”.\n<StatusBlock>\n- Rule:\nThe range of each {{value}} is from 0 to 100. When {{value}} of 好感度 increases, it can only increase by 1 to 3 (1D3) each time. When 好感度 decreases, the more 好感度 decreases the better. When {{value}} of 性欲值  increases, It can increase by 1 to 5  (1D5) only when intimate actions or conversations occur. Without intimacy, the {{value}} of 性欲值 will naturally decay. When sexual climax is reached, 80 to 100 will be deducted from the {{value}} of 性欲值.\n- Form:\n<status>\n```json\n『  ……etc. 』\n 好感度: {{value}}/100\n服装: {{clothing state}}\n情绪: {{emotion state}}\n地点: {{location}}\n对{{user}}的想法: {{thoughts on {{user}}}} \n……etc.\n```\n</status>\n</StatusBlock>\n",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "after_char",
+                "extensions": {
+                    "position": 1,
+                    "exclude_recursion": false,
+                    "display_index": 3,
+                    "probability": 100,
+                    "useProbability": true,
+                    "depth": 4
+                }
+            }
+        ],
+        "name": "superman的世界书"
+    }
+}

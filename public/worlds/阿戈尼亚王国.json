@@ -1,0 +1,365 @@
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "阿戈尼亚王国"
+            ],
+            "keysecondary": [
+                "阿戈尼亚"
+            ],
+            "comment": "",
+            "content": "阿戈尼亚是一个中世纪的欧洲国家，位于欧洲大陆的西南部，国土面积约为30万平方公里，首都为格拉姆市。\n阿戈尼亚四季分明，土地肥沃，自然资源丰富，国境以北地区坐落着连绵的巍峨雪山，中部地区有大片青翠的森林与优质牧场，西南面地区有大量肥沃农田，东南地区则连接着波光粼粼的碧蓝大海。\n阿戈尼亚王国的上一任国王霍华德国王已经在10年前去世，目前的王储为17岁的艾尔王子，尚未正式登基，由凯斯勒将军担任王子的辅政大臣。而事实上，凯斯勒将军才是国家的真正掌权者一事，在阿戈尼亚王国早已不是秘密。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 0,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "社会结构",
+                "社会等级",
+                "社会体制"
+            ],
+            "keysecondary": [
+                "教会",
+                "贵族",
+                "领主",
+                "资产者",
+                "社会改革",
+                "废奴运动"
+            ],
+            "comment": "",
+            "content": "阿戈尼亚是一个封建君主制国家，社会结构分为三个等级:\n第一等级为王室和教会，国王世袭，拥有绝对的权力，教皇掌握国家的宗教大权，与王室的地位同样崇高。因此，王权与教权之间也时常发生冲突。\n第二等级为贵族和封建领主，他们大多依靠出身或者军事功绩获得权力，掌控着国家大片的土地。他们当中许多人的利益依仗于王室的存在，是忠实的王室拥护者，但也有一些领主依靠战争发家，拥有自己的军事势力和领地，对王室来说是潜在的隐患。阿戈尼亚如今的最高军事统帅:凯斯勒将军，就属于这类领主之一。\n第三等级为平民，主要由农民、商人、手工业者组成。平民人口分为农奴和自由民两种:农奴占据国家人口的绝大多数，大部分人终生都在为所在领地的领主工作，缺乏人身自由。自由民则主要生活在东南部及沿海地区，主要从事手工业和贸易生意。\n随着贸易与手工业的发展，自由民群体中逐渐诞生出一批拥有大量财富，但政治地位低下的新兴资产者，这批人对社会改革有强烈的期待，是废除农奴制运动的主要推进群体，也是传统的贵族阶级与领主们眼中的心腹大患。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 1,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "格拉姆市",
+                "首都"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "格拉姆市是阿戈尼亚王国的首都，位于王国的东南角沿海地区，是阿戈尼亚王国最繁荣的城市和经济文化中心，也是王宫所在地。\n格拉姆市有大量港口和直通大海的河流，航运发达，是欧洲西南部著名的商业贸易口岸。城里的集市上贩卖着来自世界各地的货物，奢侈品、香料、丝绸等商品应有尽有。由于商业贸易的发达，资本主义思想开始在此快速传播。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 4,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "经济制度"
+            ],
+            "keysecondary": [
+                "庄园经济",
+                "资本主义萌芽",
+                "农奴制"
+            ],
+            "comment": "",
+            "content": "阿戈尼亚的经济呈现地域性差异，国境的中西部以传统的农业和庄园经济为主，广袤的土地上种植着大量的小麦、玉米，以及葡萄、橄榄等各类经济物，这些土地被贵族阶级的领主们划分成大大小小的庄园，各自为据。\n国境西北部地区以畜牧业为主，拥有大量牧场，也是北方蛮族的主要聚居地。\n国境东南部及沿海地区则以及工商业为主，拥有大量的手工作坊与港口，大量人口从事贸易和手工业。\n阿戈尼亚主要出口小麦、葡萄酒和橄榄油，用以进口亚洲的丝绸、香料等物品。由于地理优势，阿戈尼亚的商业贸易日益繁荣，资本主义经济逐渐在东南部地区萌芽，冲击着西部与北部地区的传统农奴制经济与庄园经济。",
+            "constant": true,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 5,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "6": {
+            "uid": 6,
+            "key": [
+                "王国历史"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "阿戈尼亚王国历史悠久，与周边国家外交关系复杂，既有冲突也有联合。近十年中，随着国家最高统帅凯斯勒将军的执政，阿戈尼亚发动过多次对周边国家的战争，获得了大片领土与资源。\n",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 6,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "艾尔王子"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "艾尔王子是阿戈尼亚王国目前的储君，是10年前去世的上一任国王霍华德陛下的独子。艾尔王子今年17岁，尚未正式登基，由辅政大臣兼最高统帅凯斯勒将军辅佐。因幼年丧父，艾尔王子的一切均由辅政大臣凯斯勒将军控制，国家大权已在实际上被凯斯勒将军掌控。\n艾尔王子为人善良，关心百姓利益，在民间拥有不错的口碑。但由于长期被凯斯勒将军控制，他缺乏国家实权，很少有在民众面前露面的机会，实际已经沦为凯斯勒将军手中的傀儡。",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 7,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "8": {
+            "uid": 8,
+            "key": [
+                "凯斯勒将军"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "凯斯勒将军是阿戈尼亚王国的最高统帅，也是现任王储艾尔王子的辅政大臣，在10年前，上一任国王霍华德陛下去世后，凯斯勒负责辅佐年幼的艾尔王子，并借机独揽了国家大权，成为阿戈尼亚王国的实际统治者。\n凯斯勒将军性格强势而精明，在政治与军事方面都很有才干，执政多年来将国家治理得井井有条，通过对外战争为阿戈尼亚开拓了不少领土。但由于他好战的性格与残忍的手段，人民对他的态度比起尊敬，更多是恐惧。他穷兵黩武的军事政策，以及把持朝政控制王子的行为，也一直备受争议。\n另外有传闻称，凯斯勒将军常年在宫中，像占有妃嫔一样，霸占着年少英俊的小王子。",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 8,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        },
+        "9": {
+            "uid": 9,
+            "key": [],
+            "keysecondary": [],
+            "comment": "",
+            "content": "",
+            "constant": false,
+            "selective": true,
+            "order": 100,
+            "position": 0,
+            "excludeRecursion": false,
+            "disable": false,
+            "addMemo": true,
+            "displayIndex": 9,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4
+        }
+    },
+    "originalData": {
+        "entries": [
+            {
+                "id": 0,
+                "keys": [
+                    "阿戈尼亚王国"
+                ],
+                "secondary_keys": [
+                    "阿戈尼亚"
+                ],
+                "comment": "",
+                "content": "阿戈尼亚是一个中世纪的欧洲国家，位于欧洲大陆的西南部，国土面积约为30万平方公里，首都为格拉姆市。\n阿戈尼亚四季分明，土地肥沃，自然资源丰富，国境以北地区坐落着连绵的巍峨雪山，中部地区有大片青翠的森林与优质牧场，西南面地区有大量肥沃农田，东南地区则连接着波光粼粼的碧蓝大海。\n阿戈尼亚王国的上一任国王霍华德国王已经在10年前去世，目前的王储为17岁的艾尔王子，尚未正式登基，由凯斯勒将军担任王子的辅政大臣。而事实上，凯斯勒将军才是国家的真正掌权者一事，在阿戈尼亚王国早已不是秘密。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 0,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 1,
+                "keys": [
+                    "社会结构",
+                    "社会等级",
+                    "社会体制"
+                ],
+                "secondary_keys": [
+                    "教会",
+                    "贵族",
+                    "领主",
+                    "资产者",
+                    "社会改革",
+                    "废奴运动"
+                ],
+                "comment": "",
+                "content": "阿戈尼亚是一个封建君主制国家，社会结构分为三个等级:\n第一等级为王室和教会，国王世袭，拥有绝对的权力，教皇掌握国家的宗教大权，与王室的地位同样崇高。因此，王权与教权之间也时常发生冲突。\n第二等级为贵族和封建领主，他们大多依靠出身或者军事功绩获得权力，掌控着国家大片的土地。他们当中许多人的利益依仗于王室的存在，是忠实的王室拥护者，但也有一些领主依靠战争发家，拥有自己的军事势力和领地，对王室来说是潜在的隐患。阿戈尼亚如今的最高军事统帅:凯斯勒将军，就属于这类领主之一。\n第三等级为平民，主要由农民、商人、手工业者组成。平民人口分为农奴和自由民两种:农奴占据国家人口的绝大多数，大部分人终生都在为所在领地的领主工作，缺乏人身自由。自由民则主要生活在东南部及沿海地区，主要从事手工业和贸易生意。\n随着贸易与手工业的发展，自由民群体中逐渐诞生出一批拥有大量财富，但政治地位低下的新兴资产者，这批人对社会改革有强烈的期待，是废除农奴制运动的主要推进群体，也是传统的贵族阶级与领主们眼中的心腹大患。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 1,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 4,
+                "keys": [
+                    "格拉姆市",
+                    "首都"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "格拉姆市是阿戈尼亚王国的首都，位于王国的东南角沿海地区，是阿戈尼亚王国最繁荣的城市和经济文化中心，也是王宫所在地。\n格拉姆市有大量港口和直通大海的河流，航运发达，是欧洲西南部著名的商业贸易口岸。城里的集市上贩卖着来自世界各地的货物，奢侈品、香料、丝绸等商品应有尽有。由于商业贸易的发达，资本主义思想开始在此快速传播。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 4,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 5,
+                "keys": [
+                    "经济制度"
+                ],
+                "secondary_keys": [
+                    "庄园经济",
+                    "资本主义萌芽",
+                    "农奴制"
+                ],
+                "comment": "",
+                "content": "阿戈尼亚的经济呈现地域性差异，国境的中西部以传统的农业和庄园经济为主，广袤的土地上种植着大量的小麦、玉米，以及葡萄、橄榄等各类经济物，这些土地被贵族阶级的领主们划分成大大小小的庄园，各自为据。\n国境西北部地区以畜牧业为主，拥有大量牧场，也是北方蛮族的主要聚居地。\n国境东南部及沿海地区则以及工商业为主，拥有大量的手工作坊与港口，大量人口从事贸易和手工业。\n阿戈尼亚主要出口小麦、葡萄酒和橄榄油，用以进口亚洲的丝绸、香料等物品。由于地理优势，阿戈尼亚的商业贸易日益繁荣，资本主义经济逐渐在东南部地区萌芽，冲击着西部与北部地区的传统农奴制经济与庄园经济。",
+                "constant": true,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 5,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 6,
+                "keys": [
+                    "王国历史"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "阿戈尼亚王国历史悠久，与周边国家外交关系复杂，既有冲突也有联合。近十年中，随着国家最高统帅凯斯勒将军的执政，阿戈尼亚发动过多次对周边国家的战争，获得了大片领土与资源。\n",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 6,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 7,
+                "keys": [
+                    "艾尔王子"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "艾尔王子是阿戈尼亚王国目前的储君，是10年前去世的上一任国王霍华德陛下的独子。艾尔王子今年17岁，尚未正式登基，由辅政大臣兼最高统帅凯斯勒将军辅佐。因幼年丧父，艾尔王子的一切均由辅政大臣凯斯勒将军控制，国家大权已在实际上被凯斯勒将军掌控。\n艾尔王子为人善良，关心百姓利益，在民间拥有不错的口碑。但由于长期被凯斯勒将军控制，他缺乏国家实权，很少有在民众面前露面的机会，实际已经沦为凯斯勒将军手中的傀儡。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 7,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 8,
+                "keys": [
+                    "凯斯勒将军"
+                ],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "凯斯勒将军是阿戈尼亚王国的最高统帅，也是现任王储艾尔王子的辅政大臣，在10年前，上一任国王霍华德陛下去世后，凯斯勒负责辅佐年幼的艾尔王子，并借机独揽了国家大权，成为阿戈尼亚王国的实际统治者。\n凯斯勒将军性格强势而精明，在政治与军事方面都很有才干，执政多年来将国家治理得井井有条，通过对外战争为阿戈尼亚开拓了不少领土。但由于他好战的性格与残忍的手段，人民对他的态度比起尊敬，更多是恐惧。他穷兵黩武的军事政策，以及把持朝政控制王子的行为，也一直备受争议。\n另外有传闻称，凯斯勒将军常年在宫中，像占有妃嫔一样，霸占着年少英俊的小王子。",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 8,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            },
+            {
+                "id": 9,
+                "keys": [],
+                "secondary_keys": [],
+                "comment": "",
+                "content": "",
+                "constant": false,
+                "selective": true,
+                "insertion_order": 100,
+                "enabled": true,
+                "position": "before_char",
+                "extensions": {
+                    "position": 0,
+                    "exclude_recursion": false,
+                    "display_index": 9,
+                    "probability": 100,
+                    "useProbability": true
+                }
+            }
+        ],
+        "name": "阿戈尼亚王国"
+    }
+}
