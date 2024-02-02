@@ -1,5 +1,4 @@
 node_modules/
-!public/chats/*
 public#/characters/
 public#/User Avatars/
 public/backgrounds/
@@ -43,3 +42,6 @@ access.log
 /cache/
 #public/css/user.css
 /plugins/
+
+#public/chats/**
+public/chats#/阿尔菲奥·埃斯波西托
